@@ -1,0 +1,46 @@
+body{
+	background-image:url(img.jpg);
+}
+input.font{
+    height:80px;
+    width:320px;
+    padding: 1px;
+    font-family:'Helvetica';
+    font-size:30;
+	border-radius:9px;
+	background-color:#adf;
+}
+input.bt{
+    background-color:#fff;
+    height:40;
+    width:80;
+    border: 1px solid black;
+    padding: 1px;
+	margin-bottom:5px;
+    font-family:'Helvetica';
+    font-size:20px;
+	border-radius:20px;
+    color:#abc;
+}
+table.cal{
+    background-color:#aba;
+	border:5px solid white;
+	border-radius:10px;
+}
+input.btc{
+	background-color:#ff4d4d;
+	height:40;
+    width:80;
+	margin-top:5px;
+    border: 2px solid white;
+    padding: 1px;
+    font-family:'Helvetica';
+    font-size:20px;
+	border-radius:20px;
+    color:#abc;
+}
+h4{
+	color:white;
+	font-family:sans-serif;
+	text-align:right;
+}
