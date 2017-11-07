@@ -1,0 +1,81 @@
+body{
+		background-image:url(img.jpg);
+}
+div 
+{ 
+   width:500px;
+   margin-left:30%; 
+   margin-top:5%
+  }
+table
+{ 
+    width:90%; 
+	border:2px solid #fff; 
+	box-shadow:0 0 2px 1px #ff4d4d;
+	border-radius:10px;
+}
+input[type="button"]
+{   border:1px solid black; 
+    width:100%; 
+	padding:10px; 
+	font-size:40px; 
+	outline:none; 
+	height:70px;
+	border-radius:10px;
+}
+input[type="text"]
+{     border:none; 
+  width:100%; 
+  height:100px; 
+  padding:10px;
+padding-left:5px; 
+  font-size:50px; 
+  outline:none; 
+  font-weight:normal; 
+  color:#555
+}
+.bgcolornumber
+{    
+     background-color:#f1f1f1; 
+	 color:#333; 
+}
+.bgclear
+{ 
+    background:#CC0000;
+	color:#f9f9f9;
+}
+.bgoperationcolor
+{      background-color:#663399; 
+    color:#f9f9f9; 
+}
+.equal
+{     background-color:#66CC33; 
+    color:#f9f9f9; 
+
+}
+.bgcolornumber:hover
+{     background-color:#222; 
+     color:#f5f5f5;
+}
+.bgclear:hover
+{     background-color:#FF0000;  
+     color:#f5f5f5;
+}
+.bgoperationcolor:hover
+{     background-color:#0033CC;
+   color:#f9f9f9;
+
+}
+.equal:hover
+{ 
+     background-color:#66FF00; 
+}
+input[type="text"]:active
+{ 
+    font-size:75px;
+}
+#valueshow{
+  background-color:#adf;
+  border:1px solid black;
+  border-radius:10px;
+}
